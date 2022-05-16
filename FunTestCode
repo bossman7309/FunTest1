@@ -1,0 +1,14 @@
+print("welcome to this fun test answer the questions as they come, thank you")
+
+name = input("what is your full name? ")
+age = input("what is your age? ")
+address = input("what is your address? ")
+
+
+
+print("lets begin the results")
+print("your full name is " + name)
+print("your age is " + age)
+print("your address is " + address)
+
+print("thank you for taking our test this test was created by Bossman7309")
